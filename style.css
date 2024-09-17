@@ -1,0 +1,103 @@
+#rohitim{
+    width: 300px;
+}
+
+#bumrahim{
+    width: 300px;
+}
+
+#suryaim{
+    width: 300px;
+}
+
+#hardhikim{
+    width: 300px;
+}
+
+#body{
+    background-color: rgb(94, 94, 165);
+}
+
+#Mumbaimain{
+    background-color: white;
+    text-align: center;
+    color: blue;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 10PX solid blue;
+    border-radius: 50px;
+    box-shadow: 10PX 10PX 10PX black;
+    text-shadow: 5PX 5PX 5PX lightblue;
+}
+
+#Rohitdes{
+    font-size: 1.5rem;
+    background-color: black;
+    color: white;
+}
+
+#Bumrahdes{
+    font-size: 1.5rem;
+    background-color: black;
+    color: white;
+}
+
+#Suryades{
+    font-size: 1.5rem;
+    background-color: black;
+    color: white;
+}
+
+#Hardikdes{
+    font-size: 1.5rem;
+    background-color: black;
+    color: white;
+}
+
+#rohiths{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5PX solid white;
+    border-radius: 30px;
+    box-shadow: 10PX 10PX 10PX black;
+    width: 300px;
+}
+
+#Bumrahj{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5PX solid white;
+    border-radius: 30px;
+    box-shadow: 10PX 10PX 10PX black;
+    width: 300px;
+}
+
+#Suryak{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5PX solid white;
+    border-radius: 30px;
+    box-shadow: 10PX 10PX 10PX black;
+    width: 300px;
+}
+
+#Hardikp{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5PX solid white;
+    border-radius: 30px;
+    box-shadow: 10PX 10PX 10PX black;
+    width: 300px;
+}
